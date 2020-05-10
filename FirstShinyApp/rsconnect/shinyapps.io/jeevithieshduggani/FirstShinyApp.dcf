@@ -1,0 +1,12 @@
+name: FirstShinyApp
+title: FirstShinyApp
+username:
+account: jeevithieshduggani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2275513
+bundleId: 3128081
+url: https://jeevithieshduggani.shinyapps.io/FirstShinyApp/
+when: 1589126535.26331
+asMultiple: FALSE
+asStatic: FALSE
